@@ -11,7 +11,7 @@ Cada algoritmo está implementado de forma clara y modular, facilitando su compr
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 El proyecto está desarrollado completamente en el **frontend**, sin necesidad de backend.
 
@@ -47,3 +47,5 @@ El proyecto está desarrollado completamente en el **frontend**, sin necesidad d
 
 ### Configuración en GitHub Pages
 1. Se configuro GitHub Pages en la cuenta con el objetivo de que la página sea visible al internet de la manera mas sencilla debido a que la estructura del proyecto no requiere ejecución de un servidor solo se requiere servir los archivos estaticos.
+
+   **URL:** []()
