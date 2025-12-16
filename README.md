@@ -48,4 +48,4 @@ El proyecto está desarrollado completamente en el **frontend**, sin necesidad d
 ### Configuración en GitHub Pages
 1. Se configuro GitHub Pages en la cuenta con el objetivo de que la página sea visible al internet de la manera mas sencilla debido a que la estructura del proyecto no requiere ejecución de un servidor solo se requiere servir los archivos estaticos.
 
-   **URL:** []()
+   **URL:** [https://gabriela-reyes18.github.io/aplicativo-Criptografia/](https://gabriela-reyes18.github.io/aplicativo-Criptografia/)
