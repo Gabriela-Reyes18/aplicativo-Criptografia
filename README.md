@@ -1,7 +1,3 @@
-# La página en la cual podremos conocer diferentes algoritmos de encriptación que fueron muy usados en la antiguedad pero que al dia de hoy solo se los utiliza para aprendizaje
-
----
-
 ## Algoritmos implementados
 
 El aplicativo permite probar y analizar, entre otros, los siguientes métodos de cifrado clásico:
@@ -50,4 +46,4 @@ El proyecto está desarrollado completamente en el **frontend**, sin necesidad d
 ## Despliegue para visualización pública 
 
 ### Configuración en GitHub Pages
-1. : Se configuro GitHub Pages en la cuenta con el objetivo de que la página sea visible al internet de la manera mas sencilla debido a que la estructura del proyecto no requiere ejecución de un servidor solo se requiere servir los archivos estaticos.
+1. Se configuro GitHub Pages en la cuenta con el objetivo de que la página sea visible al internet de la manera mas sencilla debido a que la estructura del proyecto no requiere ejecución de un servidor solo se requiere servir los archivos estaticos.
